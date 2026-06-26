@@ -20,7 +20,7 @@ export const metadata: Metadata = {
   keywords: ["math", "calculator", "equation solver", "calculus", "graphing", "formulas", "OneMath", "Latin Modern Math"],
   authors: [{ name: "OneMath" }],
   icons: {
-    icon: "https://z-cdn.chatglm.cn/z-ai/static/logo.svg",
+    icon: "https://z-cdn.chatglm.cn/z-ai/static/logo.png",
   },
   openGraph: {
     title: "OneMath ✨ - AI Math Assistant",
